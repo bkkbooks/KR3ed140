@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed140_000.yaml, hash: 'sha256:a9a835379cc48613fab375f07603b4e51c8fe6512b2baac13eff138e51a9e0e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed140_000.markers.yaml, hash: 'sha256:37fb63299c305be1e04f0351895baf2ecad602f82a10f93d98844499c62deb4f'}
+  - {seq: 0, role: markers, filename: assets/KR3ed140_000.markers.yaml, hash: 'sha256:27109193eebbada7eb75b29b441c75d216be8764d01a5d94edbf452c47ab36fa'}
 table_of_contents:
 - ref:
     seq: 0
@@ -461,7 +461,7 @@ table_of_contents:
   label: 瘍科
   type: section
   level: 2
-hash: sha256:df0d8c5b73a846215919a7ba27ead2beb3bc8c2a442e5aad57cbc71a69cfd96f
+hash: sha256:e6dba7cae690e4e397487658f46431e70dd2611466c520807d1e34623365ea62
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
